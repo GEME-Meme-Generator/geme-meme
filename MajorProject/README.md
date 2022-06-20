@@ -1,18 +1,7 @@
  [View this project here](https://minor.mukulrai.in/).
 
 ## About project
-## Welcome to College CafeQueria
-An initiative, launched with a motive to eliminate all the doubts regarding college life and academia.
-
-Faster replies to your doubts
-
-Ocean of college info
-
-Reliable answers to your questions
-
-Universal college discussion platform
-
-Mentors to ask your questions
+## Welcome to Meme Generator
 
 ### Fetures
 
