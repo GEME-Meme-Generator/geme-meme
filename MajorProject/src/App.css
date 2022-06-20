@@ -1,0 +1,16 @@
+.paddingL{
+  padding-left: inherit!important;
+}
+.bgAtt{
+  background: linear-gradient(87deg, rgb(255, 233, 213) 0px, rgb(255, 233, 213) 90%)!important;
+}
+.imgMeme {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.itemMeme {
+  width: 100%;
+  height: 500px;
+  border: 5px solid #fff;
+}
